@@ -1,4 +1,5 @@
-![logo](https://github.com/ALIRAZAASIM/ALIRAZAASIM/blob/main/Yellow%20Black%20Simple%20Gymnasium%20Profile%20LinkedIn%20Banner%20(2).jpg)
+![logo](![Yellow Black Simple Gymnasium Profile LinkedIn Banner](https://github.com/user-attachments/assets/39a219d8-1f49-4260-a867-0bb92057d67a)
+
 <h1 align="center">Hi 👋, I'm M ALI RAZA</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
