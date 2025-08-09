@@ -1,4 +1,5 @@
-![logo](file:///C:/Users/hp/Desktop/LINKEDIN%20BANNERS.pdf)
+![logo](<img width="1188" height="297" alt="Black and White Simple Project Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/9a9813c6-2ae7-4e6c-9fd0-6ee357fa43a5" />
+)
 
 <h1 align="center">Hi 👋, I'm M ALI RAZA</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
