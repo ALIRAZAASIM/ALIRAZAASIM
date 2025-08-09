@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm M ALI RAZA</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alirazaasim&label=Profile%20views&color=0e75b6&style=flat" alt="alirazaasim" /> </p>
+<p align="left"> <img src="<img width="1188" height="297" alt="Black and White Simple Project Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/00ec53d5-deb2-4e0a-bd87-ed6040509d4c" />
+" /> </p>
 
 - 🌱 I’m currently learning **html,css,javascript**
 
