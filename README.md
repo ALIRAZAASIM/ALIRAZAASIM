@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/39a219d8-1f49-4260-a867-0bb92057d67a)
+![logo](file:///C:/Users/hp/Desktop/LINKEDIN%20BANNERS.pdf)
 
 <h1 align="center">Hi 👋, I'm M ALI RAZA</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
