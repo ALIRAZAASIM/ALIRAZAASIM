@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-![logo](https://github.com/user-attachments/assets/39a219d8-1f49-4260-a867-0bb92057d67a)
+![Banner](https://raw.githubusercontent.com/ALIRAZAASIM/ALIRAZAASIM/main/LINKEDIN%20BANNERS%20%282%29.png)
 
 <h1 align="center">Hi 👋, I'm M ALI RAZA</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan.</h3>
